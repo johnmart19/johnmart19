@@ -16,8 +16,6 @@ I'm developer focused on the Android ecosystem, deeply involved in AOSP customiz
 
 🌱 I’m currently learning: Advanced concepts of the AOSP build system.
 
-📫 How to reach me:  
-
 ⚡ Fun fact: I love digging into the internals of operating systems to understand how they work.
 
 🖥️ My Setup
