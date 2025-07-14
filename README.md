@@ -21,11 +21,15 @@ I'm developer focused on the Android ecosystem, deeply involved in AOSP customiz
 🖥️ My Setup
 * CPU: AMD Ryzen™ 7 5800X3D
 
-* RAM: 128GB DDR4 3600
+* Cooling: Be Quiet! Dark Rock Pro 4 (250w tdp)
+
+* RAM: 128GB DDR4 3600mhz
 
 * GPU: [NITRO+ AMD Radeon™ RX 7900 XTX Vapor-X 24GB](https://www.sapphiretech.com/ru-ru/consumer/nitro-radeon-rx-7900-xtx-vaporx-24g-gddr6)
 
-* SSD: Samsung 990 Pro 2TB
+* SSD: Samsung 990 Pro 2TB + Samsung 990 Evo Plus 1TB
+
+* PSU: MSI MAG A1000GL PCIE5 (1000w)
 <img src="https://img.shields.io/badge/Monitors-1440p@240Hz_|_1080p@240Hz-A4A4A4?style=for-the-badge" alt="Monitors: 1440p@260hz & 1080p@240hz"/>
 </p>
 
